@@ -1,4 +1,4 @@
-# Data-Mining Assignment 1
+# JADbio
 
 https://youtu.be/zRN6zxeeDNw
 
